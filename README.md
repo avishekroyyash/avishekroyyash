@@ -1,3 +1,6 @@
+
+<img src="https://github.com/avishekroyyash/avishekroyyash/blob/main/avishekroyyash.png" alt="Banner" width="100%" />
+
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Avishek%20Roy%20Yash&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Webdeveloper&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
@@ -6,7 +9,6 @@
   </a>
 </p>
 
-<img src="https://github.com/avishekroyyash/avishekroyyash/blob/main/avishekroyyash.png" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - My name is Avishek Roy Yash, and I am a passionate MERN stack web developer and a Computer Science & Engineering (CSE) student. I enjoy building modern, responsive, and user-friendly web applications using MongoDB, Express.js, React, and Node.js.
@@ -106,6 +108,4 @@
 
 <p align="center"><a href="https://www.buymeacoffee.com/avishekroyyash" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
+
