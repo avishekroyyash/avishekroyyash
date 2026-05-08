@@ -1,5 +1,5 @@
 
-<img src="https://github.com/avishekroyyash/avishekroyyash/blob/main/avishekroyyash.png" alt="Banner" width="100%" />
+
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Avishek%20Roy%20Yash&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Webdeveloper&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
@@ -8,6 +8,9 @@
     <img src="https://komarev.com/ghpvc/?username=avishekroyyash&label=Profile%20views&color=00FFFF&style=flat-square" alt="avishekroyyash's profile views" />
   </a>
 </p>
+
+
+<img src="https://github.com/avishekroyyash/avishekroyyash/blob/main/avishekroyyash.png" alt="Banner" width="100%" />
 
 
 ## 📌 About Me
