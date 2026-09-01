@@ -25,16 +25,15 @@
 
 ---
 
-👋 About Me
+### 👋 About Me
 js
 const avishek = {
   role: "Junior MERN Stack Developer",
   location: "Sylhet, Bangladesh",
-  education: "B.Sc. in Computer Science & Engineering — Metropolitan University (2023–Present)",
-  experience: "3 full-stack products designed, built, and deployed independently",
-  coreStack: ["React.js", "Next.js", "Node.js", "Express.js", "MongoDB"],
-  currentlyLearning: ["System design fundamentals", "Scalable backend architecture"],
-  seeking: "A junior developer role where I can contribute from day one and grow fast",
+  education: "B.Sc. in CSE, Metropolitan University (2023 – Present)",
+  currentFocus: ["System Design basics", "Scalable backend architecture", "Open-source contributions"],
+  shipped: ["ReBazzar", "SportNest", "Animal Marketplace"],
+  funFact: "I'd rather ship an imperfect product than perfect an unshipped idea 🚀",
 };
 
 I build production-ready web applications from the ground up — not tutorial clones. My work spans the full stack: designing REST APIs, structuring databases, implementing authentication and role-based access control, and integrating live payment processing with Stripe. Every project below is deployed, functional, and open for review — you can test the live demo and read the source code yourself.
