@@ -2,121 +2,158 @@
   <img src="https://raw.githubusercontent.com/avishekroyyash/avishekroyyash/main/github-banner.png" width="100%" alt="Avishek Roy Yash - Full Stack Web Developer Banner"/>
 </p>
 
+<h1 align="center">Avishek Roy Yash</h1>
+<h3 align="center">🚀 MERN Stack Developer &nbsp;|&nbsp; Building Products That Solve Real Problems</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/avishek-roy-yash">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:avishekroyyashl@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://fantastic-kheer-61deca.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/programmereyas">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A371F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+%2B+Next.js;I+turn+ideas+into+shipped+products;3+Live+Full-Stack+Apps+%E2%80%94+Not+Just+Tutorials;Currently+Open+to+Junior+Dev+Roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avishekroyyash&label=Profile%20views&color=00FFFF&style=flat-square" alt="avishekroyyash's profile views" />
+  <a href="https://www.linkedin.com/in/avishek-roy-yash"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:avishekroyyashl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://fantastic-kheer-61deca.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/programmereyas"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avishekroyyash&label=Profile%20Views&color=A371F7&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=handshake&logoColor=white" alt="open to work" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="contribution snake animation" width="100%" />
 </p>
 
 ---
 
 ### 👋 About Me
 
-I'm **Avishek Roy Yash**, a Junior MERN Stack Developer and Computer Science & Engineering student based in Sylhet, Bangladesh. I build full-stack web applications from the ground up — designing REST APIs, structuring databases, and crafting responsive, user-friendly interfaces. I've shipped real projects with authentication, role-based access, and live payment integrations, and I'm actively looking for a junior developer role where I can keep building, keep learning, and contribute real value to a team from day one.
+```js
+const avishek = {
+  role: "Junior MERN Stack Developer",
+  location: "Sylhet, Bangladesh",
+  education: "B.Sc. in CSE, Metropolitan University (2023 – Present)",
+  currentFocus: ["System Design basics", "Scalable backend architecture", "Open-source contributions"],
+  shipped: ["ReBazzar", "SportNest", "Animal Marketplace"],
+  funFact: "I'd rather ship an imperfect product than perfect an unshipped idea 🚀",
+};
+```
+
+I don't just follow tutorials — I design, build, and **deploy** full-stack products end to end: authentication systems, role-based access control, REST APIs, and live payment processing with Stripe. Every project in this profile is a real, working application with a live demo link, not a boilerplate clone. I'm looking for a team where I can keep building things that matter, learn from people better than me, and grow into a stronger engineer every sprint.
 
 ---
 
-### 🚀 Featured Projects
+### 🏆 Featured Work
 
-**🛍️ ReBazzar — Second-Hand E-commerce Marketplace**
-Full-stack marketplace for buying and selling second-hand products, with separate buyer/seller flows, authentication, and Stripe payments.
-`React.js` `Node.js` `Express.js` `MongoDB` `Stripe`
-[Live Demo](https://reseller-frontend-silk.vercel.app/) · [Client Repo](https://github.com/avishekroyyash/reseller-frontend) · [Server Repo](https://github.com/avishekroyyash/reseller-backend)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**🏆 SportNest — Sports Management System**
-Full-stack platform for managing teams, players, and sports activities with role-based access control.
-`React.js` `Next.js` `Tailwind CSS` `Node.js` `MongoDB`
-[Live Demo](https://sport-frontend-gray.vercel.app/) · [Client Repo](https://github.com/avishekroyyash/sport-frontend) · [Server Repo](https://github.com/avishekroyyash/sport-backend)
+**🛍️ ReBazzar**
+*Second-Hand E-commerce Marketplace*
 
-**🐾 Animal — Animal Marketplace**
-Full-stack marketplace for browsing, listing, and selling animals with search and category filtering.
-`React.js` `Node.js` `Express.js` `MongoDB`
-[Live Demo](https://animal-mu-gold.vercel.app/) · [GitHub Repo](https://github.com/avishekroyyash/Animal)
+Full-stack marketplace with separate buyer/seller flows, product listing, wishlist, order management, and live Stripe checkout.
+
+`React` `Node.js` `Express` `MongoDB` `Stripe`
+
+[🔴 Live Demo](https://reseller-frontend-silk.vercel.app/) &nbsp;•&nbsp; [Client](https://github.com/avishekroyyash/reseller-frontend) &nbsp;•&nbsp; [Server](https://github.com/avishekroyyash/reseller-backend)
+
+</td>
+<td width="50%" valign="top">
+
+**🏆 SportNest**
+*Sports Management System*
+
+Centralized platform managing teams, players, and sports activities, with authentication and role-based access control.
+
+`React` `Next.js` `Tailwind CSS` `MongoDB`
+
+[🔴 Live Demo](https://sport-frontend-gray.vercel.app/) &nbsp;•&nbsp; [Client](https://github.com/avishekroyyash/sport-frontend) &nbsp;•&nbsp; [Server](https://github.com/avishekroyyash/sport-backend)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🐾 Animal Marketplace**
+*Browse, List & Sell Platform*
+
+Full-stack marketplace with detailed listings, category-based filtering, search, and account management.
+
+`React` `Node.js` `Express` `MongoDB`
+
+[🔴 Live Demo](https://animal-mu-gold.vercel.app/) &nbsp;•&nbsp; [Repo](https://github.com/avishekroyyash/Animal)
+
+</td>
+<td width="50%" valign="top">
+
+**📌 Your Next Project Goes Here**
+*Open slot — keep shipping*
+
+Recruiters notice momentum. Adding a 4th project (ideally with tests, docs, or a technical write-up) keeps this grid — and your credibility — growing.
+
+`Your Stack`
+
+[Start Building →](https://github.com/avishekroyyash)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🧠 Focus Areas
+### 🧠 What I Bring
 
-- Full-Stack Web Development (MERN Stack)
-- Responsive & Accessible UI Design
-- REST API Development & CRUD Operations
-- Authentication & Secure Payment Integration
-- Database Design with MongoDB
-- Problem Solving & Competitive Programming
+| | |
+|---|---|
+| 🎯 **End-to-End Ownership** | I plan, build, and deploy — from database schema to production URL |
+| 🔐 **Real-World Features** | Authentication, role-based access, and live payment integrations — not just CRUD demos |
+| ⚡ **Fast Learner** | I pick up new tools and frameworks quickly when a project demands it |
+| 🤝 **Team-First Mindset** | Clear communication, reliable time management, strong collaborator |
+| 🧩 **Problem Solver** | Active on Codeforces, sharpening algorithmic thinking outside of web dev |
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,cpp,c,html,css,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,vercel,postman&theme=dark" />
 </p>
 
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+<div align="center">
 
-**Backend & Database**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+| Category | Stack |
+|---|---|
+| **Languages** | JavaScript, C, C++ |
+| **Frontend** | React.js, Next.js, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB |
+| **Auth & Payments** | Better Auth, Stripe |
+| **Libraries** | React Router, Recharts, HeroUI, DaisyUI |
+| **Tools** | Git, GitHub, VS Code, Vercel, Postman |
 
-**Auth & Payments**
-<p>
-  <img src="https://img.shields.io/badge/Better_Auth-6C47FF?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white" />
-</p>
-
-**Libraries & UI**
-<p>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
-</p>
-
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avishekroyyash&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="avishekroyyash's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=avishekroyyash&theme=merko&hide_border=true&cache_seconds=86400" alt="avishekroyyash's GitHub Streak" width="49%" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avishekroyyash&show_icons=true&cache_seconds=7200&theme=radical&border_radius=10&hide_border=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=avishekroyyash&layout=compact&theme=radical&border_radius=10&hide_border=true" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=avishekroyyash&theme=merko&radius=10" alt="avishekroyyash's Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=avishekroyyash&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avishekroyyash&theme=react-dark&radius=10&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=avishekroyyash&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -124,41 +161,23 @@ Full-stack marketplace for browsing, listing, and selling animals with search an
 ### 🎓 Education
 
 **Bachelor of Science in Computer Science and Engineering**
-Metropolitan University | 2023 – Present
+Metropolitan University · 2023 – Present
 
 ---
 
-### 🔗 Connect with Me
+### 📫 Let's Build Something Together
+
+I'm actively looking for **Junior Frontend / MERN Stack Developer** opportunities. If you're hiring, or just want to talk about a project idea, my inbox is always open.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/avishek-roy-yash">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;
-  <a href="https://x.com/avishekroyyash">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
-  </a>&nbsp;
-  <a href="https://youtube.com/@avishekroyyash">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
-  </a>&nbsp;
-  <a href="mailto:avishekroyyashl@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;
-  <a href="https://fantastic-kheer-61deca.netlify.app/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/avishek-roy-yash"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="42" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/avishekroyyash"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="42" /></a>&nbsp;&nbsp;
+  <a href="https://youtube.com/@avishekroyyash"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="42" /></a>&nbsp;&nbsp;
+  <a href="mailto:avishekroyyashl@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="42" /></a>&nbsp;&nbsp;
+  <a href="https://fantastic-kheer-61deca.netlify.app/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="42" /></a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <img src="https://raw.githubusercontent.com/avishekroyyash/avishekroyyash/main/github-banner.png" width="0" height="0" style="display:none" />
+  <i>⭐ If any of my projects helped or inspired you, consider giving it a star — it genuinely helps.</i>
 </p>
-
-<p align="center"><i>Thanks for stopping by! Feel free to explore my repos and reach out — always open to connecting.</i></p>
-
-
-
-
-
-
-
-
-
