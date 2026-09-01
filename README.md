@@ -21,9 +21,7 @@
   <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=handshake&logoColor=white" alt="open to work" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="contribution snake animation" width="100%" />
-</p>
+
 
 ---
 
@@ -175,6 +173,10 @@ I'm actively looking for **Junior Frontend / MERN Stack Developer** opportunitie
   <a href="https://youtube.com/@avishekroyyash"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="42" /></a>&nbsp;&nbsp;
   <a href="mailto:avishekroyyashl@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="42" /></a>&nbsp;&nbsp;
   <a href="https://fantastic-kheer-61deca.netlify.app/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="42" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="contribution snake animation" width="100%" />
 </p>
 
 <p align="center">
