@@ -25,39 +25,48 @@
 
 ---
 
-### 👋 About Me
-js
+👋 About Me
+
+```js
 const avishek = {
   role: "Junior MERN Stack Developer",
   location: "Sylhet, Bangladesh",
-  education: "B.Sc. in CSE, Metropolitan University (2023 – Present)",
-  currentFocus: ["System Design basics", "Scalable backend architecture", "Open-source contributions"],
-  shipped: ["ReBazzar", "SportNest", "Animal Marketplace"],
-  funFact: "I'd rather ship an imperfect product than perfect an unshipped idea 🚀",
+  education: "B.Sc. in Computer Science & Engineering — Metropolitan University (2023–Present)",
+  philosophy: "Ship real products, not tutorial clones",
+  currentlyLearning: ["System design fundamentals", "Scalable backend architecture"],
+  status: "Open to junior developer roles",
 };
+```
 
-I build production-ready web applications from the ground up — not tutorial clones. My work spans the full stack: designing REST APIs, structuring databases, implementing authentication and role-based access control, and integrating live payment processing with Stripe. Every project below is deployed, functional, and open for review — you can test the live demo and read the source code yourself.
 
-<table> <tr> <td width="25%" align="center">
+<p align="center"> <i>I don't just write code — I ship products. Every line below is backed by a live URL you can click right now.</i> </p>
 
-🚀 3 Live Products Deployed on Vercel, used by real users, not just localhost demos
+I build production-ready web applications from the ground up: designing REST APIs, structuring databases, implementing authentication and role-based access control, and integrating live payment processing with Stripe. No boilerplate, no half-finished demos — every project on this profile is deployed, functional, and open for you to test and review yourself.
 
-</td> <td width="25%" align="center">
+<table width="100%"> <tr> <td width="25%" align="center">
+🚀
 
-🔐 Auth + Payments Shipped role-based access control and real Stripe checkout flows
-
-</td> <td width="25%" align="center">
-
-🧩 Full-Stack Depth Comfortable across UI, API, and database — not frontend-only
+3 Live Products <sub>Deployed on Vercel — real, working apps, not localhost demos</sub>
 
 </td> <td width="25%" align="center">
+🔐
 
-📈 Fast Learner Picks up new tools and frameworks quickly under real deadlines
+Auth + Payments <sub>Shipped role-based access control and real Stripe checkout flows</sub>
 
-</td> </tr> </table>
+</td> <td width="25%" align="center">
+🧩
 
-I'm looking for a team where I can keep shipping things that matter, learn from engineers better than me, and grow with every sprint — not just a title, but real ownership from day one.
----
+Full-Stack Depth <sub>Confident across UI, API, and database — not frontend-only</sub>
+
+</td> <td width="25%" align="center">
+📈
+
+Fast Learner <sub>Picks up new tools and frameworks fast under real deadlines</sub>
+
+</td> </tr> </table> <p align="center"> I'm looking for a team that ships fast, values ownership, and gives junior developers room to grow — not just a title, but real responsibility from day one. If that's you, <a href="mailto:avishekroyyashl@gmail.com">let's talk</a>. </p>
+
+
+
 
 
 🏆 Featured Work
