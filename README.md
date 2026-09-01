@@ -25,79 +25,69 @@
 
 ---
 
-### 👋 About Me
-
-```js
+👋 About Me
+js
 const avishek = {
   role: "Junior MERN Stack Developer",
   location: "Sylhet, Bangladesh",
   education: "B.Sc. in CSE, Metropolitan University (2023 – Present)",
-  currentFocus: ["System Design basics", "Scalable backend architecture", "Open-source contributions"],
+  experience: "3 self-driven full-stack products, built and deployed solo",
+  currentFocus: ["System design fundamentals", "Scalable backend architecture", "Open-source contribution"],
   shipped: ["ReBazzar", "SportNest", "Animal Marketplace"],
-  funFact: "I'd rather ship an imperfect product than perfect an unshipped idea 🚀",
+  lookingFor: "A team that ships fast and values ownership",
 };
-```
 
-I don't just follow tutorials — I design, build, and **deploy** full-stack products end to end: authentication systems, role-based access control, REST APIs, and live payment processing with Stripe. Every project in this profile is a real, working application with a live demo link, not a boilerplate clone. I'm looking for a team where I can keep building things that matter, learn from people better than me, and grow into a stronger engineer every sprint.
-
+I design, build, and deploy full-stack products end to end — authentication systems, role-based access control, REST APIs, and live payment processing with Stripe. Every project on this profile is a real, working application with a live demo link, not a boilerplate clone.
 ---
 
-### 🏆 Featured Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+🏆 Featured Work
+<table width="100%"> <tr> <td width="50%" valign="top"> <h3>🛍️ ReBazzar</h3> <img src="https://img.shields.io/badge/status-live-brightgreen?style=flat-square" />
 
-**🛍️ ReBazzar**
-*Second-Hand E-commerce Marketplace*
+Second-Hand E-commerce Marketplace
 
 Full-stack marketplace with separate buyer/seller flows, product listing, wishlist, order management, and live Stripe checkout.
 
-`React` `Node.js` `Express` `MongoDB` `Stripe`
+<p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white" /> </p>
 
-[🔴 Live Demo](https://reseller-frontend-silk.vercel.app/) &nbsp;•&nbsp; [Client](https://github.com/avishekroyyash/reseller-frontend) &nbsp;•&nbsp; [Server](https://github.com/avishekroyyash/reseller-backend)
+<a href="https://reseller-frontend-silk.vercel.app/"><img src="https://img.shields.io/badge/🔴_Live_Demo-e63946?style=for-the-badge" /></a> <a href="https://github.com/avishekroyyash/reseller-frontend"><img src="https://img.shields.io/badge/Client-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://github.com/avishekroyyash/reseller-backend"><img src="https://img.shields.io/badge/Server-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-</td>
-<td width="50%" valign="top">
 
-**🏆 SportNest**
-*Sports Management System*
+</td> <td width="50%" valign="top"> <h3>🏆 SportNest</h3> <img src="https://img.shields.io/badge/status-live-brightgreen?style=flat-square" />
+
+Sports Management System
 
 Centralized platform managing teams, players, and sports activities, with authentication and role-based access control.
 
-`React` `Next.js` `Tailwind CSS` `MongoDB`
+<p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> </p>
 
-[🔴 Live Demo](https://sport-frontend-gray.vercel.app/) &nbsp;•&nbsp; [Client](https://github.com/avishekroyyash/sport-frontend) &nbsp;•&nbsp; [Server](https://github.com/avishekroyyash/sport-backend)
+<a href="https://sport-frontend-gray.vercel.app/"><img src="https://img.shields.io/badge/🔴_Live_Demo-e63946?style=for-the-badge" /></a> <a href="https://github.com/avishekroyyash/sport-frontend"><img src="https://img.shields.io/badge/Client-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://github.com/avishekroyyash/sport-backend"><img src="https://img.shields.io/badge/Server-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</td> </tr> <tr> <td width="50%" valign="top"> <h3>🐾 Animal Marketplace</h3> <img src="https://img.shields.io/badge/status-live-brightgreen?style=flat-square" />
 
-**🐾 Animal Marketplace**
-*Browse, List & Sell Platform*
+Browse, List & Sell Platform
 
 Full-stack marketplace with detailed listings, category-based filtering, search, and account management.
 
-`React` `Node.js` `Express` `MongoDB`
+<p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> </p>
 
-[🔴 Live Demo](https://animal-mu-gold.vercel.app/) &nbsp;•&nbsp; [Repo](https://github.com/avishekroyyash/Animal)
+<a href="https://animal-mu-gold.vercel.app/"><img src="https://img.shields.io/badge/🔴_Live_Demo-e63946?style=for-the-badge" /></a> <a href="https://github.com/avishekroyyash/Animal"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-</td>
-<td width="50%" valign="top">
+</td> <td width="50%" valign="top"> <h3>📌 Your Next Project</h3> <img src="https://img.shields.io/badge/status-open_slot-orange?style=flat-square" />
 
-**📌 Your Next Project Goes Here**
-*Open slot — keep shipping*
+Open slot — keep shipping
 
-Recruiters notice momentum. Adding a 4th project (ideally with tests, docs, or a technical write-up) keeps this grid — and your credibility — growing.
+Recruiters notice momentum. Adding a 4th project — ideally with tests, docs, or a technical write-up — keeps this grid, and your credibility, growing.
 
-`Your Stack`
+<p> <img src="https://img.shields.io/badge/Your-Stack-lightgrey?style=flat-square" /> </p>
 
-[Start Building →](https://github.com/avishekroyyash)
+<a href="https://github.com/avishekroyyash"><img src="https://img.shields.io/badge/Start_Building_→-6c47ff?style=for-the-badge" /></a>
 
-</td>
-</tr>
-</table>
+</td> </tr> </table>
+
+
+
+
 
 ---
 
@@ -114,7 +104,7 @@ Recruiters notice momentum. Adding a 4th project (ideally with tests, docs, or a
 ---
 
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 <table align="center"> <tr> <td align="center" width="140"><b>💻 Languages</b></td> <td><img src="https://skillicons.dev/icons?i=js,cpp,c&theme=dark" /></td> </tr> <tr> <td align="center"><b>🎨 Frontend</b></td> <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" /></td> </tr> <tr> <td align="center"><b>⚙️ Backend</b></td> <td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /></td> </tr> <tr> <td align="center"><b>🗄️ Database</b></td> <td><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /></td> </tr> <tr> <td align="center"><b>🔐 Auth & Payments</b></td> <td> <img src="https://img.shields.io/badge/Better_Auth-6C47FF?style=flat-square&logo=auth0&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white" /> </td> </tr> <tr> <td align="center"><b>📦 Libraries / UI</b></td> <td> <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" /> <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=chartdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/HeroUI-000000?style=flat-square&logo=heroui&logoColor=white" /> <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white" /> </td> </tr> <tr> <td align="center"><b>🧰 Tools</b></td> <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark" /></td> </tr> </table> <div align="center">
 
 ⭐ Core Strength: Full-stack ownership from React UI → Express API → MongoDB schema → Vercel deployment
@@ -124,11 +114,6 @@ Recruiters notice momentum. Adding a 4th project (ideally with tests, docs, or a
 
 
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,cpp,c,html,css,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,vercel,postman&theme=dark" />
-</p>
 
 <div align="center">
 
@@ -144,26 +129,6 @@ Recruiters notice momentum. Adding a 4th project (ideally with tests, docs, or a
 
 </div>
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avishekroyyash&show_icons=true&cache_seconds=7200&theme=radical&border_radius=10&hide_border=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=avishekroyyash&layout=compact&theme=radical&border_radius=10&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=avishekroyyash&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avishekroyyash&theme=react-dark&radius=10&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avishekroyyash&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
 
 ---
 
