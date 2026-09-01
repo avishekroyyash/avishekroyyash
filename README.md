@@ -113,6 +113,17 @@ Recruiters notice momentum. Adding a 4th project (ideally with tests, docs, or a
 
 ---
 
+
+🛠️ Tech Stack
+<table align="center"> <tr> <td align="center" width="140"><b>💻 Languages</b></td> <td><img src="https://skillicons.dev/icons?i=js,cpp,c&theme=dark" /></td> </tr> <tr> <td align="center"><b>🎨 Frontend</b></td> <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" /></td> </tr> <tr> <td align="center"><b>⚙️ Backend</b></td> <td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /></td> </tr> <tr> <td align="center"><b>🗄️ Database</b></td> <td><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /></td> </tr> <tr> <td align="center"><b>🔐 Auth & Payments</b></td> <td> <img src="https://img.shields.io/badge/Better_Auth-6C47FF?style=flat-square&logo=auth0&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white" /> </td> </tr> <tr> <td align="center"><b>📦 Libraries / UI</b></td> <td> <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" /> <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=chartdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/HeroUI-000000?style=flat-square&logo=heroui&logoColor=white" /> <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white" /> </td> </tr> <tr> <td align="center"><b>🧰 Tools</b></td> <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark" /></td> </tr> </table> <div align="center">
+
+⭐ Core Strength: Full-stack ownership from React UI → Express API → MongoDB schema → Vercel deployment
+
+</div>
+
+
+
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -162,6 +173,15 @@ Recruiters notice momentum. Adding a 4th project (ideally with tests, docs, or a
 Metropolitan University · 2023 – Present
 
 ---
+
+
+
+📊 GitHub Analytics
+<p align="center"> <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avishekroyyash&show_icons=true&cache_seconds=7200&theme=radical&border_radius=10&hide_border=true" alt="GitHub Stats" /> <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=avishekroyyash&layout=compact&theme=radical&border_radius=10&hide_border=true" alt="Top Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=avishekroyyash&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="60%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=avishekroyyash&theme=radical&radius=10&hide_border=true" alt="Activity Graph" width="100%" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=avishekroyyash&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" /> </p>
+
+
+
+
 
 ### 📫 Let's Build Something Together
 
