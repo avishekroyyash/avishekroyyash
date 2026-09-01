@@ -148,4 +148,17 @@ Metropolitan University | 2023 – Present
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 <p align="center"><i>Thanks for stopping by! Feel free to explore my repos and reach out — always open to connecting.</i></p>
+
+
+
+
+
+
+
+
+
