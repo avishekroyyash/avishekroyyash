@@ -30,14 +30,34 @@ js
 const avishek = {
   role: "Junior MERN Stack Developer",
   location: "Sylhet, Bangladesh",
-  education: "B.Sc. in CSE, Metropolitan University (2023 – Present)",
-  experience: "3 self-driven full-stack products, built and deployed solo",
-  currentFocus: ["System design fundamentals", "Scalable backend architecture", "Open-source contribution"],
-  shipped: ["ReBazzar", "SportNest", "Animal Marketplace"],
-  lookingFor: "A team that ships fast and values ownership",
+  education: "B.Sc. in Computer Science & Engineering — Metropolitan University (2023–Present)",
+  experience: "3 full-stack products designed, built, and deployed independently",
+  coreStack: ["React.js", "Next.js", "Node.js", "Express.js", "MongoDB"],
+  currentlyLearning: ["System design fundamentals", "Scalable backend architecture"],
+  seeking: "A junior developer role where I can contribute from day one and grow fast",
 };
 
-I design, build, and deploy full-stack products end to end — authentication systems, role-based access control, REST APIs, and live payment processing with Stripe. Every project on this profile is a real, working application with a live demo link, not a boilerplate clone.
+I build production-ready web applications from the ground up — not tutorial clones. My work spans the full stack: designing REST APIs, structuring databases, implementing authentication and role-based access control, and integrating live payment processing with Stripe. Every project below is deployed, functional, and open for review — you can test the live demo and read the source code yourself.
+
+<table> <tr> <td width="25%" align="center">
+
+🚀 3 Live Products Deployed on Vercel, used by real users, not just localhost demos
+
+</td> <td width="25%" align="center">
+
+🔐 Auth + Payments Shipped role-based access control and real Stripe checkout flows
+
+</td> <td width="25%" align="center">
+
+🧩 Full-Stack Depth Comfortable across UI, API, and database — not frontend-only
+
+</td> <td width="25%" align="center">
+
+📈 Fast Learner Picks up new tools and frameworks quickly under real deadlines
+
+</td> </tr> </table>
+
+I'm looking for a team where I can keep shipping things that matter, learn from engineers better than me, and grow with every sprint — not just a title, but real ownership from day one.
 ---
 
 
@@ -142,7 +162,7 @@ Metropolitan University · 2023 – Present
 
 
 📊 GitHub Analytics
-<p align="center"> <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avishekroyyash&show_icons=true&cache_seconds=7200&theme=radical&border_radius=10&hide_border=true" alt="GitHub Stats" /> <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=avishekroyyash&layout=compact&theme=radical&border_radius=10&hide_border=true" alt="Top Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=avishekroyyash&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="60%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=avishekroyyash&theme=radical&radius=10&hide_border=true" alt="Activity Graph" width="100%" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=avishekroyyash&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" /> </p>
+<p align="center"> <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avishekroyyash&show_icons=true&cache_seconds=7200&theme=radical&border_radius=10&hide_border=true" alt="GitHub Stats" /> <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=avishekroyyash&layout=compact&theme=radical&border_radius=10&hide_border=true" alt="Top Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=avishekroyyash&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="60%" /> </p> 
 
 
 
