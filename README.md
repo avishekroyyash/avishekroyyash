@@ -6,7 +6,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9d58,100:00e676&height=200&section=header&text=Avishek%20Roy%20Yash&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" alt="header" /> 
 
-<h1 align="center">Avishek Roy Yash</h1>
 <h3 align="center">🚀 Full Stack Developer &nbsp;|&nbsp; Building Products That Solve Real Problems</h3>
 
 <p align="center">
