@@ -4,7 +4,11 @@
   <img src="https://raw.githubusercontent.com/avishekroyyash/avishekroyyash/main/github-banner.png" width="100%" alt="Avishek Roy Yash - Full Stack Web Developer Banner"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9d58,100:00e676&height=200&section=header&text=Avishek%20Roy%20Yash&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" alt="header" /> 
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #00C853, #69F0AE, #00A844); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Avishek Roy Yash
+  </span>
+</h1>
 
 <h3 align="center">🚀 Full Stack Developer &nbsp;|&nbsp; Building Products That Solve Real Problems</h3>
 
