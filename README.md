@@ -5,11 +5,8 @@
 </p>
 
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #00C853, #69F0AE, #00A844); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Avishek Roy Yash
-  </span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Avishek+Roy+Yash" alt="Avishek Roy Yash" />
 </h1>
-
 <h3 align="center">🚀 Full Stack Developer &nbsp;|&nbsp; Building Products That Solve Real Problems</h3>
 
 <p align="center">
