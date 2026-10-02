@@ -13,16 +13,36 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A371F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+%2B+Next.js;I+turn+ideas+into+shipped+products;3+Live+Full-Stack+Apps+%E2%80%94+Not+Just+Tutorials;Currently+Open+to+Junior+Dev+Roles" alt="Typing SVG" />
 </p>
 
+<!-- 🔗 Social & Professional Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/avishek-roy-yash"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=avishekroyyash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://avishekrayyash.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/programmereyas"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/avishek-roy-yash">
+    <img src="https://img.shields.io/badge/LinkedIn-00A86B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=avishekroyyash@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://avishekrayyash.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-00A844?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/programmereyas">
+    <img src="https://img.shields.io/badge/Codeforces-009E60?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
 </p>
 
+<!-- 👀 Profile Views & 💼 Availability -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avishekroyyash&label=Profile%20Views&color=A371F7&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=handshake&logoColor=white" alt="open to work" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=avishekroyyash&label=PROFILE%20VIEWS&color=00A86B&style=for-the-badge" 
+    alt="Profile Views"
+  />
+
+  <img 
+    src="https://img.shields.io/badge/OPEN%20TO%20WORK-00C853?style=for-the-badge&logo=handshake&logoColor=white" 
+    alt="Open to Work"
+  />
 </p>
 
 
