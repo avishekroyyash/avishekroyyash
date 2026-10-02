@@ -115,16 +115,14 @@ Full-stack marketplace with detailed listings, category-based filtering, search,
 
 <a href="https://animal-mu-gold.vercel.app/"><img src="https://img.shields.io/badge/🔴_Live_Demo-e63946?style=for-the-badge" /></a> <a href="https://github.com/avishekroyyash/Animal"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-</td> <td width="50%" valign="top"> <h3>📌 Your Next Project</h3> <img src="https://img.shields.io/badge/status-open_slot-orange?style=flat-square" />
-
+</td> <td width="50%" valign="top"> 
+  <!--
+  <h3>📌 Your Next Project</h3> <img src="https://img.shields.io/badge/status-open_slot-orange?style=flat-square" />
 Open slot — keep shipping
-
 Recruiters notice momentum. Adding a 4th project — ideally with tests, docs, or a technical write-up — keeps this grid, and your credibility, growing.
-
 <p> <img src="https://img.shields.io/badge/Your-Stack-lightgrey?style=flat-square" /> </p>
-
 <a href="https://github.com/avishekroyyash"><img src="https://img.shields.io/badge/Start_Building_→-6c47ff?style=for-the-badge" /></a>
-
+-->
 </td> </tr> </table>
 
 
@@ -198,8 +196,8 @@ I'm actively looking for **Junior Frontend / MERN Stack Developer** opportunitie
   <a href="https://www.linkedin.com/in/avishek-roy-yash"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="42" /></a>&nbsp;&nbsp;
   <a href="https://x.com/avishekroyyash"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="42" /></a>&nbsp;&nbsp;
   <a href="https://youtube.com/@avishekroyyash"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="42" /></a>&nbsp;&nbsp;
-  <a href="mailto:avishekroyyashl@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="42" /></a>&nbsp;&nbsp;
-  <a href="https://fantastic-kheer-61deca.netlify.app/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="42" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=avishekroyyash@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="42" /></a>&nbsp;&nbsp;
+  <a href="https://avishekrayyash.vercel.app"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="42" /></a>
 </p>
 
 <p align="center">
