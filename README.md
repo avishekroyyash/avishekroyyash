@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Avishek Roy Yash</h1>
-<h3 align="center">🚀 MERN Stack Developer &nbsp;|&nbsp; Building Products That Solve Real Problems</h3>
+<h3 align="center">🚀 Full Stack Developer &nbsp;|&nbsp; Building Products That Solve Real Problems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A371F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+%2B+Next.js;I+turn+ideas+into+shipped+products;3+Live+Full-Stack+Apps+%E2%80%94+Not+Just+Tutorials;Currently+Open+to+Junior+Dev+Roles" alt="Typing SVG" />
@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/avishek-roy-yash"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:avishekroyyashl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://fantastic-kheer-61deca.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=avishekroyyash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://avishekrayyash.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/programmereyas"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
@@ -29,7 +29,7 @@
 
 ```js
 const avishek = {
-  role: "Junior MERN Stack Developer",
+  role: "Full Stack Developer",
   location: "Sylhet, Bangladesh",
   education: "B.Sc. in Computer Science & Engineering — Metropolitan University (2023–Present)",
   philosophy: "Ship real products, not tutorial clones",
